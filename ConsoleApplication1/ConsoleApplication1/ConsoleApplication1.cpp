@@ -100,6 +100,5 @@ ostream& operator<<(ostream& os,const A<T>& rhs)
 
 int main(int argc, char* argv[])
 {
-   cout<<"Hellow"<<endl;
-   cout<<"Hellow"<<endl;
+   
 }
